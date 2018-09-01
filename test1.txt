@@ -1,10 +1,1 @@
- Le volume dans le lecteur C s'appelle System
- Le num‚ro de s‚rie du volume est B029-0309
-
- R‚pertoire de C:\tutorial\myProject
-
-01/09/2018  19:05    <DIR>          .
-01/09/2018  19:05    <DIR>          ..
-01/09/2018  19:05                 0 test1.txt
-               1 fichier(s)                0 octets
-               2 R‚p(s)  69ÿ325ÿ885ÿ440 octets libres
+change 1
